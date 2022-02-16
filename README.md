@@ -10,3 +10,8 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 – Áreas DIV, HEADER e HGROUP
 
 ![imagem](/_interface/Index.html-Alula-1.jpg)
+
+- Acrescentados titulos e paragrafos
+- simbolo de trade marque e quebra de palavra com hífem
+
+![pagina](/_interface/Google glass aula 2.pdf)
