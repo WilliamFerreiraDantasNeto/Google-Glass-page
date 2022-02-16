@@ -14,4 +14,4 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 - Acrescentados titulos e paragrafos
 - simbolo de trade marque e quebra de palavra com hífem
 
-![pagina](/_interface/Google glass aula 2.pdf)
+![pagina](/_interface/aula 2 index.html.png)
