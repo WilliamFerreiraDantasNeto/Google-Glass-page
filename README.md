@@ -19,3 +19,7 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 - adicionado formatação justificada e indentação de paragrafos
 
 ![pagina](/_interface/index.html-aula-3.png)
+
+- Adicionando imagem e lengenda
+
+![pagina](/_interface/index.html-aula-4.png)
