@@ -22,4 +22,4 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 
 - Adicionando imagem e lengenda
 
-![pagina](/_interface/index.html-aula-4.png)
+![pagina](/_interface/index.html-aula-4.jpeg)
