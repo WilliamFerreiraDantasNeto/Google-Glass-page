@@ -51,3 +51,12 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 - Adicionado Menus
 - 
 ![pagina](/_interface/index.html-aula-7.jpeg)
+
+---
+>Aula 7
+
+- Adicionado Link externo
+- Adicionados Links internos
+![pagina](/_interface/index.html-aula-8.jpeg)
+
+
