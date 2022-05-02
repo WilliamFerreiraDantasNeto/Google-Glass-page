@@ -63,4 +63,4 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 >Aula 8
 
 - Configurando CSS menu nav
-![pagina](/_interface/index.html-aula-9.jpeg)
+![pagina](/_interface/index.html-aula-9.2.jpeg)
