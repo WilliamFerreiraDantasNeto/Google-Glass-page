@@ -2,7 +2,7 @@
 Curso HTML5 Gustavo Guanabara pagina Google Glass
 -------
 
-![imagem](/_interface/Index.html-Alula-12.jpg)
+![imagem](/_interface/index.html-aula-12.jpeg)
 
 >Aula 1
 
