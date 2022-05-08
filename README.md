@@ -69,4 +69,14 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 >Aula 9
 
 - Configurando CSS pagina
+- padding
+- margin
+![pagina](/_interface/index.html-aula-10.jpeg)
+
+---
+>Aula 10
+
+- Configurando CSS cabeçalho
+- CSS fonte H1 e H2 cabeçalho
+- border
 ![pagina](/_interface/index.html-aula-10.jpeg)
