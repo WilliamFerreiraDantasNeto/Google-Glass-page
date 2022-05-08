@@ -81,11 +81,3 @@ Curso HTML5 Gustavo Guanabara pagina Google Glass
 - border
 ![pagina](/_interface/index.html-aula-11.jpeg)
 
----
->Aula 11
-
-- Fontes em CSS3
-- @font-face
-- @import
-![pagina](/_interface/index.html-aula-12.jpeg)
-
